@@ -6,10 +6,6 @@ VizhehAzad is new redesigned version from vizhe typeface by damoon khanjanzadeh.
 
 
 
-#نگارش فعلی
-
-Nika 0.0.3
-demo : [here](http://font-store.github.io/font-VizhehAzad/online/)
 
 # درباره فونت
 
@@ -25,6 +21,11 @@ demo : [here](http://font-store.github.io/font-VizhehAzad/online/)
 
 این فونت در مراحل اولیه بازطراحی و پیاده سازی را طی ‌می‌نماید.
 در صورت مشاهده هرگونه اشکال لطفا آن را گزارش نمایید.
+
+
+
+Version : 0.0.3
+Demo : [here](http://font-store.github.io/font-VizhehAzad/online/)
 
 
 ------
