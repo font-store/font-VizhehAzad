@@ -1,4 +1,4 @@
-# Nika font project
+# VizhehAzad - Persian/Arabic font project
 
 VizhehAzad is a  Persian/Arabic typeface, suitable for text.
 
