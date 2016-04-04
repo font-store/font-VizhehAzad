@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'NikaWeb';
-    src:url('VizhehAzad-Regular.woff2') format('woff2'),
+    font-family: 'TestFont';
+    src: url('VizhehAzad-Regular.woff2') format('woff2'),
     url('VizhehAzad-Regular.woff') format('woff'),
     url('VizhehAzad-Regular.otf') format('opentype') ,
     url('VizhehAzad-Regular') format('truetype');
